@@ -1,0 +1,4 @@
+
+esquid:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(‡ÌÄ8å˜¼….
+Vsquid:S1854"9Remove this useless assignment to local variable "words".(‡ÌÄ8å˜¼….
+Gsquid:S1481"*Remove this unused "words" local variable.(‡ÌÄ8å˜¼….

@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="359452ea-ba33-4b20-a40d-9c4ea81702fe" name="Default Changelist" comment="" />
+    <list default="true" id="359452ea-ba33-4b20-a40d-9c4ea81702fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a831b10439099d44774d0ccc387e808deffaeab" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a831b10439099d44774d0ccc387e808deffaeab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5def3bbd8c2691703a51a5f1c0e80dd410256e6b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5def3bbd8c2691703a51a5f1c0e80dd410256e6b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6cea21245434717925663a548c21e31bc712c6f7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6cea21245434717925663a548c21e31bc712c6f7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/MyBloomFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/MyBloomFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/MySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/MySet.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Xvz59MMOfoItDJuc4vq5h0Zkc7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -58,7 +70,8 @@
       <updated>1581941169700</updated>
       <workItem from="1581941173543" duration="7575000" />
       <workItem from="1582016996981" duration="97000" />
-      <workItem from="1582017578124" duration="3589000" />
+      <workItem from="1582017578124" duration="3846000" />
+      <workItem from="1582199382129" duration="1679000" />
     </task>
     <servers />
   </component>
@@ -66,22 +79,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="345" key="GridCell.Tab.0.bottom" timestamp="1582016870302">
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1582283909375">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="345" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1582016870302" />
-    <state width="1638" height="345" key="GridCell.Tab.0.center" timestamp="1582016870301">
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1582283909375" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1582283909374">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="345" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1582016870301" />
-    <state width="1638" height="345" key="GridCell.Tab.0.left" timestamp="1582016870301">
+    <state width="1638" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1582283909374" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1582283909373">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="345" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1582016870301" />
-    <state width="1638" height="345" key="GridCell.Tab.0.right" timestamp="1582016870302">
+    <state width="1638" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1582283909373" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1582283909374">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="345" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1582016870302" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1582283909374" />
     <state width="1638" height="345" key="GridCell.Tab.1.bottom" timestamp="1582016870303">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>

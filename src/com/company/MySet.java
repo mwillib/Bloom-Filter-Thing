@@ -11,6 +11,7 @@ public class MySet {
     private MyBloomFilter bloomFilter = new MyBloomFilter();
 
     public MySet() throws NoSuchAlgorithmException {
+        //shut up
     }
 
     public void add(String val) {
@@ -18,7 +19,7 @@ public class MySet {
         bloomFilter.add(val, bitmap);
     }
 
-    public boolean contains(String val) throws NoSuchAlgorithmException {
+    public boolean contains(String val) {
         return bloomFilter.contains(val, bitmap);
     }
 

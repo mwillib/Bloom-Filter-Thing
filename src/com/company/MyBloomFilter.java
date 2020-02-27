@@ -9,6 +9,7 @@ public class MyBloomFilter {
     byte[] hashResult;
 
     public MyBloomFilter() throws NoSuchAlgorithmException {
+        //shut up
     }
 
     void add(String val, boolean[] bitmap) {
@@ -21,9 +22,6 @@ public class MyBloomFilter {
     boolean contains(String val, boolean[] bitmap) {
         hashResult = md.digest(val.getBytes());
 
-        if (bitmap[hashResult[0] + 128] && bitmap[hashResult[3] + 128] && bitmap[hashResult[5] + 128]) {
-            return true;
-        }
-        return false;
+        return bitmap[hashResult[0] + 128] && bitmap[hashResult[3] + 128] && bitmap[hashResult[5] + 128];
     }
 }

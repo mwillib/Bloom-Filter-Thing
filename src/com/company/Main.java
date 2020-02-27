@@ -10,19 +10,21 @@ public class Main {
     public static void main(String[] args) throws FileNotFoundException, NoSuchAlgorithmException {
 
         File file = new File("wordlist.txt");
-        Scanner words = new Scanner(file);
-        MySet set = new MySet();
+        MySet set;
+        try (Scanner words = new Scanner(file)) {
+            set = new MySet();
 
-        while (words.hasNextLine()) {
-            set.add(words.nextLine());
+            while (words.hasNextLine()) {
+                set.add(words.nextLine());
+            }
         }
 
         if (set.contains("Arcadi")) {
             System.out.println("Found Arcadi");
         }
 
-        if (!set.contains("Flippersnap")) {
-            System.out.println("Flippersnap Doesn't Exist");
+        if (!set.contains("Fleepsoodl")) {
+            System.out.println("Fleepsoodl Doesn't Exist");
         }
 
     }
